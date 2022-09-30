@@ -1,0 +1,13 @@
+[submodule "themes/forty"]
+	path = themes/forty
+	url = https://github.com/MarcusVirg/forty
+
+[submodule "themes/--force"]
+	path = themes/--force
+	url = https://github.com/bergluc/quarante
+[submodule "themes/--name"]
+	path = themes/--name
+	url = https://github.com/bergluc/quarante
+[submodule "themes/quart"]
+	path = themes/quart
+	url = https://github.com/bergluc/quarante

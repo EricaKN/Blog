@@ -1,4 +1,6 @@
-baseURL = 'https://ericakn.github.io/blog/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'AdituSample'
+#-------------------------------
+# General Site Settings
+baseURL = "https://ericakn.github.io"
+languageCode = "en-pt"
+title = "Hi there, I'm Érica"
+theme = "Aditu"
