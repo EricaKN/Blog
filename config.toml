@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-baseURL = "https://ericakn.github.io"
+baseURL = "https://ericakn.github.io/blog/"
 languageCode = "en-pt"
 title = "Hi there, I'm Érica"
 theme = "Aditu"
