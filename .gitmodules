@@ -1,0 +1,3 @@
+[submodule "themes/AdituSample"]
+	path = themes/AdituSample
+	url = https://github.com/8ar10der/AdituSample.git
