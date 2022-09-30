@@ -1,7 +1,7 @@
 ---
 title: "How to access a server using SSH-keys"
 date: 2022-09-30T07:53:12-03:00
-draft: true
+draft: false 
 ---
 
 # Pre-requisites
