@@ -5,16 +5,6 @@ draft: false
 
 Name: Érica Kamimura Nishimura
 
-
-E-mail: erica.k.nishimura
-
-
-Linkedin: https://www.linkedin.com/in/%C3%A9rica-k-nishimura-2b1ab535/
-
-
-Github: https://github.com/EricaKN
-
-
 Description:
 
 "Seeker of Knowledge". 
@@ -28,3 +18,5 @@ I had a great opportunity to improve my technical skills as a Data Scientist and
 
 Btw, life is not made only by tech knowledge, and I felt the need to start a new graduation: in Social Sciences.
 
+<!-- ![class="about_avatar"](/blog/images/avatar.jpg) -->
+{{< figure src="/blog/images/avatar.jpg">}}

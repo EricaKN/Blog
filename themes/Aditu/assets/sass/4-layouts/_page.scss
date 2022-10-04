@@ -26,10 +26,13 @@
 }
 
 .image-box {
-  position: relative;
-  padding-top: 50%;
-  border-radius: 30px;
-  overflow: hidden;
+  position: sticky;
+  padding-top: 20%;
+  padding-right: 20%;
+  padding-bottom: 1%;
+  padding-left: 20%;
+  border-radius: 50px;
+  // overflow: hidden;
   background-color: $dark;
   
   @media only screen and (max-width: $desktop) {
