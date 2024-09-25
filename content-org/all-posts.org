@@ -1,0 +1,3 @@
+#+hugo_base_dir: ../
+
+Remember that to export is: C-c C-e H H
